@@ -1,9 +1,21 @@
-<h2>Connect Me</h2>
-<b>Email:<b> lifenming666@gmail.com </br>
-<b>Blog: <b>lifengming.cn
+ ### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=fengmingli&show_icons=true&theme=outrun)  
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=fengmingli&layout=compact&show_icons=true&theme=outrun)  
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=fengmingli&layout=compact&show_icons=true&theme=outrun)  
+<!--
+**VickScarlet/fengmingli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</br>
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</br>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 
